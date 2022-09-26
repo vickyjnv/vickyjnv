@@ -57,7 +57,6 @@ Here are some ideas to get you started:
 <br />
 
 --->
-[![@vickyjnv's Holopin board](https://holopin.io/api/user/board?user=vickyjnv)](https://holopin.io/@vickyjnv)
 [website]: https://vickyjnv.me
 [twitter]: https://twitter.com/vickyjnv8
 [instagram]: https://instagram.com/vicky_mathur
