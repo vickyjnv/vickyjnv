@@ -1,5 +1,5 @@
 ### Hola, I am vicky kumar 👋
-![Profile views](https://gpvc.arturio.dev/malhotraravi842)
+
 <!--
 
 Here are some ideas to get you started:
@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 ## I'm a student, Developer, and Learner!
 
-- 🔭 I’m currently working on a flutter project
+- 🔭 I’m currently working on a Pythn Flask project
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to click pictures and play drums
 <!--
 
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <br />
 
 --->
-[website]: https://vickyjnv.me
+[website]: https://vickyjnv.github.io
 [twitter]: https://twitter.com/vickyjnv8
 [instagram]: https://instagram.com/vicky_mathur
 [linkedin]: https://linkedin.com/in/vickyjnv
